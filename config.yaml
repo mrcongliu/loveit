@@ -94,7 +94,7 @@ params:
       logo: ''
       name: Cong Liu
       post: ''
-      pre: <i class='far fa-kiss-wink-heart fa-fw' aria-hidden='true'></i>
+      pre: <i class='fa fa-digging fa-fw' aria-hidden='true'></i>
       typeit: no
   home:
     posts:
@@ -417,66 +417,66 @@ languages:
     languageName: English
     menu:
       main:
-        - identifier: posts
-          name: Posts
-          post: ''
-          pre: ''
-          title: ''
-          url: /posts/
-          weight: 1
-        - identifier: tags
-          name: Tags
-          post: ''
-          pre: ''
-          title: ''
-          url: /tags/
-          weight: 2
-        - identifier: categories
-          name: Categories
-          post: ''
-          pre: ''
-          title: ''
-          url: /categories/
-          weight: 3
         - identifier: code
           name: Code
           post: ''
           pre: ''
           title: ''
           url: /categories/code/
-          weight: 4
+          weight: 1
         - identifier: body
           name: Body
           post: ''
           pre: ''
           title: ''
           url: /categories/body/
-          weight: 5
+          weight: 2
         - identifier: money
           name: Money
           post: ''
           pre: ''
           title: ''
           url: /categories/money/
-          weight: 6
+          weight: 3
         - identifier: food
           name: Food
           post: ''
           pre: ''
           title: ''
           url: /categories/food/
-          weight: 7
+          weight: 4
         - identifier: book
           name: Book
           post: ''
           pre: ''
           title: ''
           url: /categories/book/
+          weight: 5
+        - identifier: posts
+          name: ''
+          post: ''
+          pre: <i class='fa fa-bars fa-fw' aria-hidden='true'></i>
+          title: 'All Posts'
+          url: /posts/
+          weight: 6
+        - identifier: tags
+          name: ''
+          post: ''
+          pre: <i class='fa fa-tags fa-fw' aria-hidden='true'></i>
+          title: 'Tags'
+          url: /tags/
+          weight: 7
+        - identifier: categories
+          name: ''
+          post: ''
+          pre: <i class='fa fa-folder-open fa-fw' aria-hidden='true'></i>
+          title: 'Categories'
+          url: /categories/
           weight: 8
         - identifier: about
           name: ''
           post: ''
-          pre: <i class='fa fa-mars fa-fw' aria-hidden='true'></i>
+          pre: <i class='fa fa-street-view fa-fw' aria-hidden='true'></i>
           title: 'About Me'
           url: /about/
           weight: 9
