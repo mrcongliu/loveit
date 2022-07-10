@@ -1,4 +1,4 @@
-baseURL: https://mrcongliu.com
+baseURL: https://mrcongliu.netlify.app/
 theme: LoveIt
 title: Cong Liu
 defaultContentLanguage: en
@@ -181,7 +181,7 @@ params:
         pageSize: 10
         placeholder: ''
         recordIP: yes
-        serverURLs: https://leancloud.hugoloveit.com
+        serverURLs: https://mrcongliu.netlify.app/
         visitor: yes
     fontawesome: yes
     fraction: yes
@@ -598,7 +598,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: 一位大龄转行、在加拿大留学和就业的程序员
+          subtitle: 来自宇宙的尽头，半路出家的程序员，现居加拿大滑铁卢市。
           title: ''
           typeit: yes
         rss: 10
