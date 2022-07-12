@@ -48,7 +48,7 @@ For me, I've learned R and RStudio while studying Big Data Solution Architecture
 
 ![](00-blogdown-2021.gif)
 
-To me, it seems unnecessary to think the reason of doing something. I am always a fun of learning by doing. But Alison made her point. It would help me in the long run if I am serious about this blog. So I took a while to figure that out.
+To me, it seems unnecessary to think the reason of doing something. I am always a fan of learning by doing. But Alison made her point. It would help me in the long run if I am serious about this blog. So I took a while to figure that out.
 
 ### 1. Content & Theme
 
@@ -98,11 +98,11 @@ Open up RStudio to create a new project where your website's files will live.
 
 1. Be intentional about where you tell RStudio to create this new Project on your workstation.
 
-## Step 3: Create site
+## Step 3: Create Site
 
 ![](03-blogdown-2021.png)
 
-1. The latest version of blogdown will not be available on CRAN until January 2021, but you can install the development version from GitHub with:
+1. Install the latest version of Blogdown:
 
 ```
 > if (!requireNamespace("remotes")) install.packages("remotes")
@@ -111,19 +111,59 @@ Using github PAT from envvar GITHUB_PAT
 Downloading GitHub repo rstudio/blogdown@master
 ```
 
-1. Let's use our first blogdown function to create a website with the Hugo Wowchemy "starter-academic" project:
+2. Import BlogDown into your RStudio and select a theme. For example, you can choose "starter-academic", or any other theme you like.
 
 ```
 > library(blogdown)
 > new_site(theme = "wowchemy/starter-academic")
 ```
 
-1. You should now see something like this. Take a moment to read through these messages - importantly, it tells you how to start and stop the server so you can preview your site. Importantly, when you come back to your project, note that you can use `blogdown::serve_site()` or the "Serve Site" addin to preview it locally. 
+3. Then a few lines of will pop up, it doesn't matter even if you can't understand them. Just keep in mind that you can preview your site by using `blogdown::serve_site()`.
 
-Let's select `y` to let blogdown start a server for us.
-    
-Exciting, isn't it? Now, don't trap your site in the RStudio Viewer pane. Let it out! Click to "Show in new window" (to the right of the :broom: icon) to preview it in a normal browser window. When you do that, you'll be re-directed to the site's main homepage. Let's find our way back to the R Markdown post. Click on `Posts > Hello R Markdown` to read it:
+## Step 4: Create content
 
-This is what blogdown gives you- everything else in the site is given to you by Hugo and your Wowchemy Hugo theme. But this post, and your ability to see output and plots rendered with <i class="fab fa-r-project"></i> is what blogdown adds!
+![](04-blogdown-2021.png)
 
-1. Click **Create Project**.
+You can write either in `Markdown` or `.Rmarkdown`. But the difference between them is `.Rmarkdown` requires you to use the RStudio built-in `Knit` function to transform the file into a `Markdown` file. For example:
+
+
+```
+> blogdown::new_post(title = "Hi Hugo", 
+                     ext = '.Rmarkdown', 
+                     subdir = "post")
+```
+
+## Step 5: Publish site
+
+![](05-blogdown-2021.png)
+
+We will use Netlify to publish our site. Why is it so popular? Because Netlify helps us to automatically rebuild our site whenever new code is committed to Github repo.
+
+- Go online to [Netlify](https://www.netlify.com). 
+
+- Click on the **Sign Up** button and sign up using your existing GitHub account (no need to create another account).
+
+- Log in, and select: `New site from Git > Continuous Deployment: GitHub`.
+
+- From there, Netlify will allow you to select from your existing GitHub repositories. You'll pick the repo you've been working from with `blogdown`. Leave all settings as they are and select **Deploy Site**.
+
+## Step 6: Sculpt site
+
+![](06-blogdown-2021.png)
+
+
+### Modify the configuration file
+
+Every settings about your site is inside the file `config.yaml` under the root directory, you need to do your research and figure out how to modify it. Previewing your site is probably a good strategy.
+
+### Customize SCSS
+
+Feel free to add your own SCSS file into `assets/scss/custom.scss`. If you are not familiar with SCSS, here is a good [example](https://github.com/rbind/apreshill/blob/main/assets/custom.scss).
+
+## Thanks
+
+Now, your site is ready to go！ :smile:
+
+Thanks for reading. If you have any questions, feel free to leave a comment down below.
+
+Cheers!
