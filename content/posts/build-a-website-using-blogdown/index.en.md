@@ -13,8 +13,7 @@ resources:
 - name: featured-image
   src: featured-image.jpg
 tags:
-- installation
-- configuration
+- blogdown
 title: Build A Website Using BlogDown
 toc:
   auto: false
@@ -49,7 +48,7 @@ For me, I've learned R and RStudio while studying Big Data Solution Architecture
 
 ![](00-blogdown-2021.gif)
 
-To me, it seems unnecessary to think the reason of doing something. I am always a fun of learning by doing. But Alison made her point. It would help me in the long run if I am serious about this blog. So I took a while to figure out the 
+To me, it seems unnecessary to think the reason of doing something. I am always a fun of learning by doing. But Alison made her point. It would help me in the long run if I am serious about this blog. So I took a while to figure that out.
 
 ### 1. Content & Theme
 
@@ -75,4 +74,56 @@ For some, homepage should be cool and without much conent other than a simple se
 
 ![](01-blogdown-2021.png)
 
-She recommended using Netlify to both build and host your site. In this case, you can name the repository anything you want! I totally agree!
+She recommended using [**Netlify**](https://www.netlify.com) to both build and host your site. In this case, you can name the repository anything you want! I totally agree! Before that, we need setup our GitHub.
+
+1. Go to [GitHub](https://github.com) and create a new repository.
+
+![Screenshot above: Creating a new repository in GitHub](github-new-repo.png)
+
+2. Go to the main page of your new repository, and under the repository name, click the green **Clone or download** button.
+
+3. Choose either SSH or HTTPS (if you don't know which, choose HTTPS). Choose by clicking on the clipboard icon to copy the remote URL for your new repository. You'll paste this text into RStudio in the next section.
+
+## Step 2: Create project
+
+![](02-blogdown-2021.png)
+
+We just created the remote repository on GitHub. To make a local copy on our computer that we can actually work in, we'll clone that repository into a new RStudio project. This will allow us to sync between the two locations: your remote (the one you see on github.com) and your local desktop.
+
+Open up RStudio to create a new project where your website's files will live.
+    
+1. Click `File > New Project > Version Control > Git`.
+
+1. Paste the copied URL from the previous step.
+
+1. Be intentional about where you tell RStudio to create this new Project on your workstation.
+
+## Step 3: Create site
+
+![](03-blogdown-2021.png)
+
+1. The latest version of blogdown will not be available on CRAN until January 2021, but you can install the development version from GitHub with:
+
+```
+> if (!requireNamespace("remotes")) install.packages("remotes")
+> remotes::install_github("rstudio/blogdown")
+Using github PAT from envvar GITHUB_PAT
+Downloading GitHub repo rstudio/blogdown@master
+```
+
+1. Let's use our first blogdown function to create a website with the Hugo Wowchemy "starter-academic" project:
+
+```
+> library(blogdown)
+> new_site(theme = "wowchemy/starter-academic")
+```
+
+1. You should now see something like this. Take a moment to read through these messages - importantly, it tells you how to start and stop the server so you can preview your site. Importantly, when you come back to your project, note that you can use `blogdown::serve_site()` or the "Serve Site" addin to preview it locally. 
+
+Let's select `y` to let blogdown start a server for us.
+    
+Exciting, isn't it? Now, don't trap your site in the RStudio Viewer pane. Let it out! Click to "Show in new window" (to the right of the :broom: icon) to preview it in a normal browser window. When you do that, you'll be re-directed to the site's main homepage. Let's find our way back to the R Markdown post. Click on `Posts > Hello R Markdown` to read it:
+
+This is what blogdown gives you- everything else in the site is given to you by Hugo and your Wowchemy Hugo theme. But this post, and your ability to see output and plots rendered with <i class="fab fa-r-project"></i> is what blogdown adds!
+
+1. Click **Create Project**.
