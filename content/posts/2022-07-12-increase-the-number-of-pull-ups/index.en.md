@@ -1,48 +1,22 @@
 ---
-title: Increase The Number Of Pull Ups
 author: Cong Liu
-date: '2022-07-12'
-slug: []
-categories: 
-  - body
-tags:
-  - calisthenics
-subtitle: ''
-lastmod: '2022-07-12T19:32:41-04:00'
-draft: yes
-authorLink: ''
-description: ''
-license: ''
+authorLink: https://mrcongliu.com
+categories:
+- body
+date: "2022-07-12T19:32:41-04:00"
+description: Increase The Number Of Pull Ups
+draft: false
 images: []
-featuredImage: ''
-featuredImagePreview: ''
-hiddenFromHomePage: no
-hiddenFromSearch: no
-twemoji: no
-lightgallery: yes
-ruby: yes
-fraction: yes
-fontawesome: yes
-linkToMarkdown: yes
-rssFullText: no
-toc:
-  enable: no
-  auto: yes
-code:
-  copy: yes
-  maxShownLines: 50
-math:
-  enable: no
-mapbox: ~
-share:
-  enable: yes
-comment:
-  enable: yes
-library:
-  css: ~
-  js: ~
-seo:
-  images: []
+lastmod: "2022-07-12T19:32:41-04:00"
+lightgallery: true
+resources:
+- name: featured-image
+  src: featured-image.jpg
+tags:
+- calisthenics
+title: Increase The Number Of Pull Ups
+toc: false
+weight: 1
 ---
 
 I used to think there was no talent for sports in me.
