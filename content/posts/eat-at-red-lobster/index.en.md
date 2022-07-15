@@ -3,11 +3,11 @@ author: Cong Liu
 authorLink: https://mrcongliu.com
 categories:
 - food
-date: "2022-07-15T21:29:01+08:00"
+date: "2022-07-15T23:29:01+08:00"
 description: The Food at Red Lobster
 draft: false
 images: []
-lastmod: "2022-07-15T21:29:01+08:00"
+lastmod: "2022-07-15T23:29:01+08:00"
 lightgallery: true
 resources:
 - name: featured-image
@@ -15,7 +15,7 @@ resources:
 - name: featured-image-preview
   src: featured-image-preview.jpg
 tags:
-- blogdown
+- seafood
 title: Eat at Red Lobster
 toc: false
 weight: 1
