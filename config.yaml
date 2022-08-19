@@ -181,7 +181,7 @@ params:
         pageSize: 10
         placeholder: ''
         recordIP: yes
-        serverURLs: https://mrcongliu.netlify.app/
+        serverURLs: https://mrcongliu.com/
         visitor: yes
     fontawesome: yes
     fraction: yes
@@ -506,18 +506,12 @@ languages:
         snippetLength: 30
         type: algolia
       social:
-        Email: xxxx@xxxx.com
-        Facebook: xxxx
-        GitHub: xxxx
-        Instagram: xxxx
-        Mastodon:
-          id: '@xxxx'
-          prefix: https://mastodon.technology/
-        Phone: 555-555-555
-        RSS: yes
-        Telegram: xxxx
-        Twitter: xxxx
-        Youtubelegacy: xxxx
+        Email: upcliucong@gmail.com
+        GitHub: CongLiu-CN
+        Instagram: mrcongliu
+        Phone: 226-581-0268
+        Telegram: mrcongliu
+        Twitter: mrcongliu
     weight: 1
   zh-cn:
     copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
@@ -616,14 +610,10 @@ languages:
         snippetLength: 50
         type: algolia
       social:
-        Bilibili: xxxx
-        Devto: xxxx
-        Douban: xxxx
-        Email: xxxx@xxxx.com
-        GitHub: xxxx
-        Phone: 555-555-555
-        RSS: yes
-        Steam: xxxx
-        Weibo: xxxx
-        Zhihu: xxxx
+        Email: upcliucong@gmail.com
+        GitHub: CongLiu-CN
+        Instagram: mrcongliu
+        Phone: 226-581-0268
+        Telegram: mrcongliu
+        Twitter: mrcongliu
     weight: 2

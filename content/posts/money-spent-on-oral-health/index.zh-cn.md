@@ -9,6 +9,9 @@ draft: false
 images: []
 lastmod: "2022-08-07T22:06:28-04:00"
 lightgallery: true
+resources:
+- name: featured-image
+  src: featured-image.png
 tags:
 - teeth
 title: 我在口腔护理套件上的花费
