@@ -506,6 +506,7 @@ languages:
         snippetLength: 30
         type: algolia
       social:
+        LinkedIn: mrcongliu
         Email: upcliucong@gmail.com
         GitHub: CongLiu-CN
         Instagram: mrcongliu
@@ -610,6 +611,7 @@ languages:
         snippetLength: 50
         type: algolia
       social:
+        LinkedIn: mrcongliu
         Email: upcliucong@gmail.com
         GitHub: CongLiu-CN
         Instagram: mrcongliu

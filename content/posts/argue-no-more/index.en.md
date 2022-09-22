@@ -3,11 +3,11 @@ author: Cong Liu
 authorLink: https://mrcongliu.com
 categories:
 - book
-date: "2022-09-22T22:06:28-04:00"
+date: "2022-09-22T11:06:28-04:00"
 description: An acient chinese story about why you shouldn't argue……
 draft: false
 images: []
-lastmod: "2022-09-22T22:06:28-04:00"
+lastmod: "2022-09-22T11:06:28-04:00"
 lightgallery: true
 resources:
 - name: featured-image
