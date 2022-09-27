@@ -222,21 +222,21 @@ params:
       Evernote: no
       Facebook: yes
       Flipboard: no
-      HackerNews: yes
+      HackerNews: no
       Instapaper: no
-      Line: yes
-      Linkedin: no
+      Line: no
+      Linkedin: yes
       Mix: no
       Odnoklassniki: no
       Pinterest: no
       Pocket: no
       Reddit: no
       Skype: no
-      Trello: no
+      Trello: yes
       Tumblr: no
       Twitter: yes
       VK: no
-      Weibo: yes
+      Weibo: no
       Whatsapp: no
       Xing: no
       enable: yes
@@ -593,7 +593,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: 来自宇宙的尽头，半路出家的程序员，现居加拿大滑铁卢市。
+          subtitle: 来自宇宙的尽头，半路出家的程序员，现居加拿大基奇纳市。
           title: ''
           typeit: yes
         rss: 10
