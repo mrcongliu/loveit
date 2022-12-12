@@ -169,8 +169,8 @@ params:
         lightTheme: github-light
         repo: ''
       valine:
-        appId: QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI
-        appKey: WBmoGyJtbqUswvfLh6L8iEBr
+        appId: WqBwwC1LmLWYMjSJfExekfNA-MdYXbMMI
+        appKey: C54wnbEGa8y1W4EVMEtXy1gu
         avatar: mp
         emoji: ''
         enable: yes
