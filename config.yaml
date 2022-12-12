@@ -1,4 +1,4 @@
-baseURL: https://mrcongliu.netlify.app/
+baseURL: https://www.mrcongliu.com/
 theme: LoveIt
 title: Cong Liu
 defaultContentLanguage: en
@@ -181,7 +181,7 @@ params:
         pageSize: 10
         placeholder: ''
         recordIP: yes
-        serverURLs: https://mrcongliu.com/
+        serverURLs: https://www.mrcongliu.com/
         visitor: yes
     fontawesome: yes
     fraction: yes
