@@ -30,8 +30,14 @@ Basically, there was a transition period in high schools in China that every stu
 
 However, score was not the single reason that determines which class the student will be sent to. Some rich or powerful parents were willing to pay a fortune to make sure their kids have a bright future. So, one day my parents asked me, whether they should pay some money to my school before the class division. I was irritatived, feeling that they were making fun of my learning ability, knowing that I was always among the top performers regarding exams.
 
-I learned this the hard way that I can't trust schools too much. Yes, I scored high, but not high enough to go into the top classes. So I was sent to a class-15, which was formed by half good students and half
+I learned this the hard way that I can't trust schools too much. Yes, I scored high, but not high enough to go into the top classes. So I was sent to class-15, which was mixed of good students and bad ones. It was a perfect example of Gresham's law that bad students who paid drove out good students who didn't.
 
 ![How I got into Class-15？](/images/how-i-got-into-class-15.png "How I got into Class-15？")
+
+As might have been expected, studying in that class was a torture. Not only had it destroyed my passion for learning but also sabotaged my performance in college entrance examination.
+
+Gradually, I realized that not all teachers are respectful. Most of them are just businessmen who sell knowledge for a good price.
+
+Gradually, I realized that if you have to beg to get something, then it is better to not ask for it at the first place. If a job makes you sufferring, quit. If an education system makes you hate knowledge, don't be involved. Work-life balance is important. Nobody should be forced to learn on weekends.
 
 -- :man_technologist: Mr. Cong Liu :writing_hand:
