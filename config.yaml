@@ -181,7 +181,7 @@ params:
         pageSize: 10
         placeholder: ''
         recordIP: yes
-        serverURLs: https://www.mrcongliu.com/
+        serverURLs: https://api.mrcongliu.com/
         visitor: yes
     fontawesome: yes
     fraction: yes
