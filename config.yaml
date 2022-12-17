@@ -495,9 +495,9 @@ languages:
       search:
         absoluteURL: no
         algolia:
-          appID: PASDMWALPK
+          appID: GZE541OVHQ
           index: index.en
-          searchKey: b42948e51daaa93df92381c8e2ac0f93
+          searchKey: 184de47e3bc5d7ad3ad9c653e912c234
         contentLength: 4000
         enable: yes
         highlightTag: em
@@ -607,9 +607,9 @@ languages:
       search:
         absoluteURL: no
         algolia:
-          appID: PASDMWALPK
+          appID: GZE541OVHQ
           index: index.zh-cn
-          searchKey: b42948e51daaa93df92381c8e2ac0f93
+          searchKey: 184de47e3bc5d7ad3ad9c653e912c234
         contentLength: 4000
         enable: yes
         highlightTag: em
