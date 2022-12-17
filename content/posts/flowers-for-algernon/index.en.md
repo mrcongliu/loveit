@@ -7,7 +7,7 @@ categories:
 tags:
   - novel
 authorLink: https://mrcongliu.com
-description: 一部悲剧
+description: A sad story...
 draft: false
 images: []
 resources:
