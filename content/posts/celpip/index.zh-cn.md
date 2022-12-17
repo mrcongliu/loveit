@@ -9,7 +9,9 @@ draft: false
 images: []
 resources:
 - name: featured-image
-  src: featured-image.jpg
+  src: featured-image.png
+- name: featured-image-preview
+  src: featured-image-preview.jpg
 tags:
 - canada
 - english
