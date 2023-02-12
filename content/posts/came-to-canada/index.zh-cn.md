@@ -17,6 +17,9 @@ toc: false
 weight: 1
 ---
 
+> 推荐在此背景音乐下阅读本文。
+{{< music url="/music/forever-love.mp3" name=一生所爱 artist=卢冠廷 cover="/images/forever-love.png" >}}
+
 ### 起因
 
 大学毕业前最后一次喝酒，我得知隔壁同班同学要跨专业考计算机研究生。酒过三巡，我脑子一热，提出跟他一起考。他劝我冷静，问问自己有多喜欢计算机，愿意为它付出多少？我没有考计算机研……
