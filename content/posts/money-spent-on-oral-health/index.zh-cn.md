@@ -1,20 +1,16 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- money
-date: "2022-08-07T22:06:28-04:00"
+date: "2022-08-07"
 description: 最近入手的口腔护理套件……
 draft: false
-images: []
-lastmod: "2022-08-07T22:06:28-04:00"
 lightgallery: true
 resources:
 - name: featured-image
   src: featured-image.png
 tags:
 - teeth
-title: 我在口腔护理套件上的花费
+title: 口腔护理套件
 toc: false
 weight: 1
 ---

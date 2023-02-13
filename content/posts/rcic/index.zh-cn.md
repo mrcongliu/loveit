@@ -1,12 +1,9 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- canada
 date: "2023-01-12"
 description: 持的是什么牌，为啥这么贵。
 draft: false
-images: []
 resources:
 - name: featured-image
   src: featured-image.jpg

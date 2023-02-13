@@ -1,17 +1,12 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- canada
-date: "2022-12-16T14:41:24+00:00"
+date: "2022-12-16"
 description: 聊聊转码这件事……
 draft: false
-images: []
 resources:
 - name: featured-image
   src: featured-image.png
-tags:
-- canada
 title: 聊聊转码这件事
 toc: false
 weight: 1

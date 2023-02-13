@@ -1,12 +1,9 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- canada
-date: "2021-03-29T22:06:28-04:00"
+date: "2021-03-29"
 description: 我是如何申请到2020年9月加国安省计算机研文的
 draft: false
-images: []
 resources:
 - name: featured-image
   src: featured-image.png

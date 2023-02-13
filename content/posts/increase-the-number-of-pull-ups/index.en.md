@@ -1,13 +1,9 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- body
-date: "2022-07-12T19:32:41-04:00"
+date: "2022-07-12"
 description: Increase The Number Of Pull Ups
 draft: false
-images: []
-lastmod: "2022-07-12T19:32:41-04:00"
 lightgallery: true
 resources:
 - name: featured-image

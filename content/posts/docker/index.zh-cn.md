@@ -1,19 +1,15 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- code
-date: "2022-11-29T14:10:58+00:00"
+date: "2022-11-29"
 description: 初识Docker
-draft: false
-images: []
-lastmod: "2022-11-29T14:10:58+00:00"
+draft: true
 lightgallery: true
 resources:
 - name: featured-image
   src: featured-image.jpg
 tags:
-- blogdown
+- docker
 title: 初识Docker
 toc:
   auto: false

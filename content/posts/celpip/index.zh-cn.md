@@ -1,8 +1,6 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- canada
 date: "2022-12-17"
 description: 思培学习之旅
 draft: false
@@ -13,7 +11,6 @@ resources:
 - name: featured-image-preview
   src: featured-image-preview.jpg
 tags:
-- canada
 - english
 title: 思培考试备考攻略
 toc: false

@@ -1,20 +1,16 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-categories:
-- money
-date: "2022-08-07T22:06:28-04:00"
+date: "2022-08-07"
 description: Some tools I bought recently...
 draft: false
-images: []
-lastmod: "2022-08-07T22:06:28-04:00"
 lightgallery: true
 resources:
 - name: featured-image
   src: featured-image.png
 tags:
 - teeth
-title: Money Spent On Oral Health
+title: Oral Health Staff
 toc: false
 weight: 1
 ---
