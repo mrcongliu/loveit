@@ -97,7 +97,7 @@ params:
       typeit: no
   home:
     posts:
-      enable: yes
+      enable: no
       paginate: 6
     profile:
       avatarURL: /images/avatar.png
@@ -418,7 +418,7 @@ languages:
           url: /tags/
           weight: 2
         - identifier: about
-          name: 'About Me'
+          name: 'Author'
           post: ''
           pre: ''
           title: ''
@@ -441,7 +441,6 @@ languages:
         Email: upcliucong@gmail.com
         GitHub: CongLiu-CN
         Instagram: mrcongliu
-        Phone: 226-581-0268
         Telegram: mrcongliu
         Twitter: mrcongliu
     weight: 1
@@ -466,7 +465,7 @@ languages:
           url: /tags/
           weight: 2
         - identifier: about
-          name: '关于我'
+          name: '作者'
           post: ''
           pre: ''
           title: ''
@@ -489,7 +488,6 @@ languages:
         Email: upcliucong@gmail.com
         GitHub: CongLiu-CN
         Instagram: mrcongliu
-        Phone: 226-581-0268
         Telegram: mrcongliu
         Twitter: mrcongliu
     weight: 2

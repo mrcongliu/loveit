@@ -39,5 +39,3 @@ As might have been expected, studying in that class was a torture. Not only had 
 Gradually, I realized that not all teachers are respectful. Most of them are just businessmen who sell knowledge for a good price.
 
 Gradually, I realized that if you have to beg to get something, then it is better to not ask for it at the first place. If a job makes you sufferring, quit. If an education system makes you hate knowledge, don't be involved. Work-life balance is important. Nobody should be forced to learn on weekends.
-
--- :man_technologist: Mr. Cong Liu :writing_hand:
