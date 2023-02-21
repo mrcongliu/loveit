@@ -1,16 +1,16 @@
 ---
-title: 我为啥不干Uber送餐了
 author: Cong Liu
-date: '2023-03-20'
-tags:
-  - canada
-  - side-hustle
 authorLink: https://mrcongliu.com
+date: '2023-03-20'
 description: 开Uber送餐真的是一件糟心的事……
 draft: false
 resources:
   - name: featured-image
     src: featured-image.png
+title: 我为啥不干Uber送餐了
+tags:
+  - canada
+  - side-hustle
 weight: 1
 ---
 
