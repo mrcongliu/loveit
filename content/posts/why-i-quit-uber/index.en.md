@@ -1,16 +1,16 @@
 ---
-title: Why I quit Uber Eats
 author: Cong Liu
-date: '2023-03-20'
-tags:
-  - canada
-  - side-hustle
 authorLink: https://mrcongliu.com
+date: '2023-03-20'
 description: The things I hate about delivering Uber Eats
 draft: false
 resources:
   - name: featured-image
     src: featured-image.png
+title: Why I quit Uber Eats
+tags:
+  - canada
+  - side-hustle
 weight: 1
 ---
 
