@@ -85,7 +85,7 @@ params:
     icp: ''
     license: ''
     since: 2019
-  gitRepo: ''
+  gitRepo: 'https://github.com/CongLiu-CN/loveit'
   header:
     desktopMode: fixed
     mobileMode: auto
