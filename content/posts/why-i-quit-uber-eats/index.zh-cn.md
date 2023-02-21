@@ -1,16 +1,18 @@
 ---
 author: Cong Liu
 authorLink: https://mrcongliu.com
-date: '2023-03-20'
+date: "2023-03-20"
 description: 开Uber送餐真的是一件糟心的事……
 draft: false
+lightgallery: true
 resources:
-  - name: featured-image
-    src: featured-image.png
-title: 我为啥不干Uber送餐了
+- name: featured-image
+  src: featured-image.png
 tags:
-  - canada
-  - side-hustle
+- canada
+- side-hustle
+title: 我为啥不干Uber送餐了
+toc: false
 weight: 1
 ---
 
